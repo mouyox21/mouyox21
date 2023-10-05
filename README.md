@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mouyox21
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning at UTBM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
