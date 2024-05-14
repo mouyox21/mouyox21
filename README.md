@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @mouyox21
-- 👀 I’m interested in AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <h1 align="center">Hi 👋, I'm Mouad ANIBA</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
